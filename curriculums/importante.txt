@@ -1,2 +1,2 @@
 importancia a lo importante
-clases: 
+clases: class
